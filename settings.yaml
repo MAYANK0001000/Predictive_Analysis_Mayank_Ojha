@@ -1,0 +1,17 @@
+settings_version: 0.0.4
+datasets_dir: /home/anjum/pre/python-ai-cv/04-AI-tools/training_sample
+weights_dir: /home/anjum/pre/python-ai-cv/weights
+runs_dir: /home/anjum/pre/python-ai-cv/runs
+uuid: 4b0d4078216c81e207438ac8ebec4b8a0e054291334f2690f4139ded8ee4a43a
+sync: true
+api_key: ''
+openai_api_key: ''
+clearml: true
+comet: true
+dvc: true
+hub: true
+mlflow: true
+neptune: true
+raytune: true
+tensorboard: true
+wandb: true

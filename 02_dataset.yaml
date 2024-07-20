@@ -1,0 +1,17 @@
+# Dataset configuration for your custom dataset
+path: ./Output/frames
+train: /home/anjum/pre_project/output/train # Path to training images
+val: /home/anjum/pre_project/output/val # Path to validation images
+
+nc: 10 # Number of classes
+names:
+  0: brocoli
+  1: blank
+  2: person
+  3: bicycle
+  4: car
+  5: motocycle
+  6: bus
+  7: truck
+  8: cat
+  9: dog
