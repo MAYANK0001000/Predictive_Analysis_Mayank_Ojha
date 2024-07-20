@@ -2,7 +2,7 @@ Here's a more organized and detailed breakdown of the instructions provided for 
 
 ---
 
-# Predictive Analysis End Project Guide
+# Predictive Analysis Project Guide
 
 This guide helps convert Labelstudio export and video data into YOLO training data, train a YOLO model, and validate it using uploaded videos.
 
